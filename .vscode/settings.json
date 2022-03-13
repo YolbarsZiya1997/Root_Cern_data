@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "formula1.C": "cpp",
+        "gaussian_graph.C": "cpp",
+        "gerrors.C": "cpp",
+        "graph1.C": "cpp",
+        "hello.C": "cpp",
+        "graph_with_error_2.C": "cpp",
+        "graph2.C": "cpp",
+        "hist1.C": "cpp",
+        "legend_drawing.C": "cpp",
+        "multgr_palet_color.C": "cpp",
+        "multigraph.C": "cpp",
+        "readROOT.C": "cpp",
+        "reverse_axis.C": "cpp",
+        "ZoomHistogram.C": "cpp",
+        "for_llooop.C": "cpp",
+        "fit.C": "cpp",
+        "drawHisto.C": "cpp",
+        "createROOT.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}

@@ -20,8 +20,7 @@ void multgr_palet_color() {
     mg->Add(gr4, "PL");
     mg->Add(gr3, "PL");
     mg->Add(gr2, "*L");
-    
+    mg->Add(gr1, "PL");
 
-
-
+    mg->Draw("A pmc plc");    
 }
