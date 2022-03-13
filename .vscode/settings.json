@@ -17,7 +17,13 @@
         "for_llooop.C": "cpp",
         "fit.C": "cpp",
         "drawHisto.C": "cpp",
-        "createROOT.C": "cpp"
+        "createROOT.C": "cpp",
+        "basic_graphic.C": "cpp",
+        "3d_multigraph.C": "cpp",
+        "c1.C": "cpp",
+        "stack_histo_1.C": "cpp",
+        "complex_case.C": "cpp",
+        "example.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
