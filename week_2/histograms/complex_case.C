@@ -33,8 +33,8 @@ void complex_case() {
     // in bottom left, draw in stack mode with "legol1" option
     cst->cd(3);
     gPad->SetFrameFillColor(17);
-    gPad->SetTheta(3.77);
-    gPad->SetPhi(2.9);
+    //gPad->SetTheta(1.5);
+    //gPad->SetPhi(1.5);
     hs->Draw("lego1");
 
     cst->cd(4);

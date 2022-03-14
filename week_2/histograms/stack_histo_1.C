@@ -13,11 +13,14 @@
     h3->SetFillColor(kGreen);
     hs->Add(h3);
     TCanvas *cs = new TCanvas("cs", "cs", 10, 10, 1600, 1000);
-    TText T; T.SetTextFont(42); T.SetTextAlign(21);
+    TText T; T.SetTextAlign(21); 
+    Double_t font = T.GetTextFont();
     cs->Divide(2,2);
     cs->cd(1); hs->Draw(); T.DrawTextNDC(.5, .95, "Default drawing option");
     cs->cd(2); hs->Draw("nostack"); T.DrawTextNDC(.5, .95, "Option\"nostack\"");
     cs->cd(3); hs->Draw("nostackb"); T.DrawTextNDC(.5, .95, "Option\"nostackb\"");
     cs->cd(4); hs->Draw("lego1"); T.DrawTextNDC(.5, .95, "Option \"lego1\"");
+    cout << font << endl;
     return cs;
+
 }

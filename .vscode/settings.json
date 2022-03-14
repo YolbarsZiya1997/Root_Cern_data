@@ -23,7 +23,8 @@
         "c1.C": "cpp",
         "stack_histo_1.C": "cpp",
         "complex_case.C": "cpp",
-        "example.C": "cpp"
+        "example.C": "cpp",
+        "hsum.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
