@@ -24,7 +24,10 @@
         "stack_histo_1.C": "cpp",
         "complex_case.C": "cpp",
         "example.C": "cpp",
-        "hsum.C": "cpp"
+        "hsum.C": "cpp",
+        "NormalizeHistogram.C": "cpp",
+        "rebin.C": "cpp",
+        "rebin_mine.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
