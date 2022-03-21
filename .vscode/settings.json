@@ -27,7 +27,8 @@
         "hsum.C": "cpp",
         "NormalizeHistogram.C": "cpp",
         "rebin.C": "cpp",
-        "rebin_mine.C": "cpp"
+        "rebin_mine.C": "cpp",
+        "tree1w.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }
