@@ -28,7 +28,8 @@
         "NormalizeHistogram.C": "cpp",
         "rebin.C": "cpp",
         "rebin_mine.C": "cpp",
-        "tree1w.C": "cpp"
+        "tree1w.C": "cpp",
+        "tree1r.C": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }

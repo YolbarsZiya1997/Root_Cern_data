@@ -11,6 +11,7 @@ void tree1w() {
     t1.Branch("py", &py, "py/F");
     t1.Branch("pz", &pz, "pz/F");
     t1.Branch("ev", &ev, "ev/I");
+    t1.Branch("random", &random, "random/D");
 
     //fill the tree
     for (Int_t i=0; i<10000; i++) {
